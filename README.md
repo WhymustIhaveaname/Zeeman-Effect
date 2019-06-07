@@ -15,5 +15,5 @@
     
     下图展示了我们的程式的工作情况, 下下图示例了如果使用圆来拟合会怎样, 说明了使用椭圆拟合的必要性. 这两张图片中, 为了使点和圆更明显, 我加粗了线条, 实际工作中使用了更细的线条以达到更高的精度.
     
-    ![image](https://github.com/WhymustIhaveaname/Zeeman-Effect/fitwitheclipse.png)
-    ![image](https://github.com/WhymustIhaveaname/Zeeman-Effect/fitwithcircle.png)
+    ![image](https://github.com/WhymustIhaveaname/Zeeman-Effect/blob/master/fitwitheclipse.png)
+    ![image](https://github.com/WhymustIhaveaname/Zeeman-Effect/blob/master/fitwithcircle.png)
